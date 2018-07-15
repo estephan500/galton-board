@@ -1,5 +1,5 @@
 # galton-board
-one of the lower quality Galton boards you will see
+one of the lower quality Galton boards you will see.
 
 SCREEENHEIGHT and SCREENWIDTH may need adjusting.
 
